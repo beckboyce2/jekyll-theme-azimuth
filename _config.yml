@@ -1,5 +1,5 @@
 title: Stackbit Azimuth Theme
-baseurl: https://wineselection.club/
+baseurl: /
 permalink: '/:title/'
 collections:
   posts:
