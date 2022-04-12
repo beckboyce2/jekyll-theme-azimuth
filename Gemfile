@@ -11,4 +11,4 @@ group :jekyll_plugins do
     gem "github-pages", "<= 204"
 end
 
-gem "nokogiri", "<= 1.10.7"
+gem "nokogiri", "<= 1.13.5"
